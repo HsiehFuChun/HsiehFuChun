@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HsiehFuChun 謝復鈞
+- 👋 Hi, I’m @fuXur
 - 👀 I’m interested in machine learning
 - 🌱 I’m currently learning machine learning
 - 💞️ I’m looking to collaborate on whatever
